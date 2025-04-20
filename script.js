@@ -1,4 +1,4 @@
-document.getElementById('loginForm').addEventListener('submit', function(event) {
+document.getElementById('login').addEventListener('submit', function(event) {
     event.preventDefault(); // Evitar que el formulario se envíe
 
     // Obtener los valores del formulario
